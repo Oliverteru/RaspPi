@@ -1,2 +1,2 @@
 # RaspPi
-RaspberryPiの練習用
+RaspberryPi関連
